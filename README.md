@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nozymech
+- 👋 Hi, I’m Yan ,from Taichung, Taiwan
 - 👀 I’m interested in Web engineering 
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on open-source project
